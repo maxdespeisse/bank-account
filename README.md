@@ -4,7 +4,7 @@ Think of your personal bank account experience When in doubt, go for the simples
 
  
 
-Requirements
+## Requirements
 
  
 
@@ -16,11 +16,11 @@ Statement printing
 
   
 
-User Stories
+## User Stories
 
  
 
-US 1:
+### US 1:
 
 In order to save money
 
@@ -30,7 +30,7 @@ I want to make a deposit in my account
 
  
 
-US 2:
+### US 2:
 
 In order to retrieve some or all of my savings
 
@@ -40,7 +40,7 @@ I want to make a withdrawal from my account
 
  
 
-US 3:
+### US 3:
 
 In order to check my operations
 
